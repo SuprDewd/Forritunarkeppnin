@@ -1,0 +1,9 @@
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\bin\Debug\FKProjectSorter.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\bin\Debug\FKProjectSorter.pdb
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\FKProjectSorter.Form1.resources
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\FKProjectSorter.Properties.Resources.resources
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\FKProjectSorter.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FKProjectSorter\obj\x86\Debug\FKProjectSorter.pdb
