@@ -1,0 +1,7 @@
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\FKMVCDev.exe
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\FKMVCDev.pdb
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\SharpBag.dll
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\SharpBag.pdb
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\obj\x86\Debug\FKMVCDev.exe
+C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\obj\x86\Debug\FKMVCDev.pdb
