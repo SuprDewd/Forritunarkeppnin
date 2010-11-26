@@ -5,3 +5,11 @@ C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\SharpBag.d
 C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\bin\Debug\SharpBag.pdb
 C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\obj\x86\Debug\FKMVCDev.exe
 C:\Users\Bjarki\Desktop\Projects\Forritun\FKMVCDev\FKMVCDev\obj\x86\Debug\FKMVCDev.pdb
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\obj\x86\Debug\FKMVCDev.exe
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\obj\x86\Debug\FKMVCDev.pdb
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\bin\Debug\FKMVCDev.exe
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\bin\Debug\FKMVCDev.pdb
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\bin\Debug\SharpBag.pdb
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\obj\x86\Debug\Decl\FKMVCDev.exe
+C:\Users\SuprDewd\Desktop\Projects\Forritun\ForritunarKeppnin\Delta 2003 og Beta 2005\FKMVCDev\obj\x86\Debug\Decl\FKMVCDev.pdb

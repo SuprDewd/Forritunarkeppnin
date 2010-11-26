@@ -1,0 +1,10 @@
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK_2002\bin\Debug\FK_2002.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK_2002\bin\Debug\FK_2002.pdb
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK_2002\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK_2002\obj\x86\Debug\FK_2002.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK_2002\obj\x86\Debug\FK_2002.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2010\Projects\FK_2002\FK_2002\obj\x86\Debug\FK_2002.exe
+C:\Users\Bjarki\Documents\Visual Studio 2010\Projects\FK_2002\FK_2002\obj\x86\Debug\FK_2002.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2010\Projects\FK_2002\FK_2002\bin\Debug\FK_2002.exe
+C:\Users\Bjarki\Documents\Visual Studio 2010\Projects\FK_2002\FK_2002\bin\Debug\FK_2002.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2010\Projects\FK_2002\FK_2002\obj\x86\Debug\ResolveAssemblyReference.cache

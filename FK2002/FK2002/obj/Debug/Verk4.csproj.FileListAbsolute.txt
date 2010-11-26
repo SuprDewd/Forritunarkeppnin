@@ -1,0 +1,14 @@
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\bin\Debug\FK2002.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\bin\Debug\FK2002.pdb
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\bin\Debug\SuprLibrary.dll
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\bin\Debug\SuprLibrary.pdb
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\obj\Debug\FK2002.exe
+C:\Users\Bjarki\AppData\Local\Temporary Projects\FK2002\obj\Debug\FK2002.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\bin\Debug\FK2002.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\bin\Debug\FK2002.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\bin\Debug\SuprLibrary.dll
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\bin\Debug\SuprLibrary.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\obj\Debug\FK2002.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\obj\Debug\FK2002.pdb

@@ -1,0 +1,10 @@
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\bin\Debug\Alfa2003.exe
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\bin\Debug\Alfa2003.pdb
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\bin\Debug\SharpBag.dll
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\bin\Debug\MySql.Data.dll
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\bin\Debug\SharpBag.pdb
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\obj\x86\Debug\Alfa2003.exe
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\obj\x86\Debug\Alfa2003.pdb
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\obj\x86\Debug\Decl\Alfa2003.exe
+c:\users\suprdewd\Desktop\Projects\Forritun\ForritunarKeppnin\Alfa2003\obj\x86\Debug\Decl\Alfa2003.pdb

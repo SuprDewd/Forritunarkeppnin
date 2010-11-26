@@ -1,0 +1,7 @@
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\bin\Release\Verk10.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\bin\Release\Verk10.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\bin\Release\SuprLibrary.dll
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\bin\Release\SuprLibrary.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\obj\Release\Verk10.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\Verk10\obj\Release\Verk10.pdb

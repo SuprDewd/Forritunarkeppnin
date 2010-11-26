@@ -1,0 +1,2 @@
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\obj\Debug\FK2002.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK2002\FK2002\obj\Debug\FK2002.pdb

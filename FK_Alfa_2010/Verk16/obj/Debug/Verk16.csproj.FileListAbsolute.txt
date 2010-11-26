@@ -1,0 +1,7 @@
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\bin\Debug\Verk16.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\bin\Debug\Verk16.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\bin\Debug\SuprLibrary.dll
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\obj\Debug\Verk16.exe
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\obj\Debug\Verk16.pdb
+C:\Users\Bjarki\Documents\Visual Studio 2008\Projects\FK_Alfa_2010\Verk16\bin\Debug\SuprLibrary.pdb
