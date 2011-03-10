@@ -11,7 +11,7 @@ namespace Alfa2003
     {
         static void Main(string[] args)
         {
-            D14();
+            D13();
         }
 
         static void D14()
