@@ -1,0 +1,7 @@
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\bin\Debug\Delta2011.exe
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\bin\Debug\Delta2011.pdb
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\bin\Debug\SharpBag.dll
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\bin\Debug\SharpBag.pdb
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\obj\Debug\Delta2011.exe
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Delta2011\Delta2011\obj\Debug\Delta2011.pdb

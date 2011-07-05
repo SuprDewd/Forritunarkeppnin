@@ -1,0 +1,8 @@
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\bin\Debug\Alpha2011.exe
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\bin\Debug\Alpha2011.pdb
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\bin\Debug\SharpBag.dll
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\bin\Debug\SharpBag.pdb
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\obj\x86\Debug\Alpha2011.exe
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\obj\x86\Debug\Alpha2011.pdb
+C:\Users\SuprDewd\Documents\Projects\Old\Forritun\ForritunarKeppnin\2011\Alpha2011\Alpha2011\bin\Debug\Nofn.txt

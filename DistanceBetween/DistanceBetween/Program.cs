@@ -22,28 +22,19 @@ namespace DistanceBetween
                 string a = s.Word.Substring(j + 1);
                 int nj = j;
 
-                foreach (WordOp x in AllRemove(new WordOp { Word = b + a, Ops = s.Ops + 1, Do = p => { s.Do(p); Console.WriteLine("Remove " + s.Word[nj] + " at index " + (nj + p)); } }, i - 1)) yield return x;
-            }
-        }
-
-        static IEnumerable<WordOp> AllAdd(WordOp s, int i)
-        {
-            if (i == 0)
-            {
-                yield return s;
-                yield break;
-            }
-
-            for (int j = 0; j <= s.Word.Length; j++)
-            {
-                for (int c = 0; c < chars.Count; c++)
+                foreach (WordOp x in AllRemove(new WordOp { Word = b + a, Ops = s.Ops + 1, Do = p =>
                 {
-                    string b = s.Word.Substring(0, j);
-                    string a = s.Word.Substring(j);
-                    int nj = j, nc = c;
-
-                    foreach (WordOp x in AllAdd(new WordOp { Word = b + chars[c] + a, Ops = s.Ops + 1, Do = p => { s.Do(p); Console.WriteLine("Add " + chars[nc] + " at index " + (nj + p)); } }, i - 1)) yield return x;
-                }
+                    if (!Reversed)
+                    {
+                        s.Do(p);
+                        Console.WriteLine("Remove {0} at index {1}", s.Word[nj], (nj + p));
+                    }
+                    else
+                    {
+                        Console.WriteLine("Add {0} at index {1}", s.Word[nj], (nj + p));
+                        s.Do(p);
+                    }
+                } }, i - 1)) yield return x;
             }
         }
 
@@ -63,9 +54,21 @@ namespace DistanceBetween
                     int nj = j, nc = c;
 
                     if (chars[c] == s.Word[j]) continue;
-                    List<int> alreadyRep = new List<int>(alreadyReplaced);
-                    alreadyRep.Add(j);
-                    foreach (WordOp x in AllReplace(new WordOp { Word = b + chars[c] + a, Ops = s.Ops + 1, Do = p => { s.Do(p); Console.WriteLine("Replace " + s.Word[nj] + " at index " + (nj + p) + " with " + chars[nc]); } }, i - 1, alreadyRep)) yield return x;
+                    List<int> nAlreadyReplace = new List<int>(alreadyReplaced);
+                    nAlreadyReplace.Add(j);
+                    foreach (WordOp x in AllReplace(new WordOp { Word = b + chars[c] + a, Ops = s.Ops + 1, Do = p =>
+                    {
+                        if (!Reversed)
+                        {
+                            s.Do(p);
+                            Console.WriteLine("Replace {0} at index {1} with {2}", s.Word[nj], (nj + p), chars[nc]);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Replace {0} at index {1} with {2}", chars[nc], (nj + p), s.Word[nj]);
+                            s.Do(p);
+                        }
+                    } }, i - 1, nAlreadyReplace)) yield return x;
                 }
             }
         }
@@ -75,6 +78,13 @@ namespace DistanceBetween
             public string Word;
             public Action<int> Do;
             public int Ops;
+
+            public WordOp(string word)
+            {
+                Word = word;
+                Do = i => { };
+                Ops = 0;
+            }
         }
 
         static int LevenshteinDistance(string s, string t)
@@ -98,14 +108,29 @@ namespace DistanceBetween
             return dRec(n, m);
         }
 
+        static bool Reversed = false;
+
         static void Main(string[] args)
         {
-            string l = "bjarki", r = "jónas", lm = l, rm = r;
+            Console.Write("From: ");
+            string l = Console.ReadLine();
+            Console.Write("To: ");
+            string r = Console.ReadLine();
+
+            if (l.Length < r.Length)
+            {
+                string t = l;
+                l = r;
+                r = t;
+                Reversed = true;
+            }
+
+            string lm = l, rm = r;
 
             int f = 0;
             for (int i = 0; i < Math.Min(lm.Length, rm.Length); i++)
             {
-                if (lm[i] != rm[i]) break;
+                if (lm[0] != rm[0]) break;
 
                 lm = lm.Substring(1);
                 rm = rm.Substring(1);
@@ -114,7 +139,7 @@ namespace DistanceBetween
 
             int li = lm.Length - 1, ri = rm.Length - 1;
 
-            while (lm[li] == rm[ri])
+            if (li >= 0 && ri >= 0) while (lm[li] == rm[ri])
             {
                 lm = lm.Substring(0, lm.Length - 1);
                 rm = rm.Substring(0, rm.Length - 1);
@@ -125,14 +150,13 @@ namespace DistanceBetween
                 if (li == 0 || ri == 0) break;
             }
 
-            foreach (char c in l.ToCharArray().Concat(r.ToCharArray())) if (!chars.Contains(c)) chars.Add(c);
+            foreach (char c in r.ToCharArray()) if (!chars.Contains(c)) chars.Add(c);
 
             int diff = r.Length - l.Length;
             IEnumerable<WordOp> correctLength;
 
-            if (diff < 0) correctLength = AllRemove(new WordOp { Word = lm, Do = i => { }, Ops = 0 }, Math.Abs(diff));
-            else if (diff > 0) correctLength = AllAdd(new WordOp { Word = lm, Do = i => { }, Ops = 0 }, diff);
-            else correctLength = new[] { new WordOp { Word = lm, Do = i => { }, Ops = 0 } };
+            if (diff < 0) correctLength = AllRemove(new WordOp(lm), Math.Abs(diff));
+            else correctLength = new[] { new WordOp(lm) };
 
             List<int> emptyList = new List<int>();
             var q = from c in correctLength.AsParallel()
